@@ -132,7 +132,7 @@ void TempAndHumin() {
     mylcd.print(t);
     mylcd.setCursor(0, 1);
     mylcd.print("H = ");
-    mylcd.print(h]);
+    mylcd.print(h);
     //mylcd.clear();
     delay(1000);
  }
