@@ -1,8 +1,8 @@
 //**********************************************************************************
 /*  
- * Filename    : RFID
- * Description : RFID reader UID
- * Auther      : http//www.keyestudio.com
+ * Filename    : main
+ * Description : main
+ * Auther      : sillyangel
 */
 #include <Wire.h>
 #include "DHT.h"
